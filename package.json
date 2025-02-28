@@ -2,6 +2,7 @@
   "name": "viyu-web",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://hasindu200.github.io/Viyu_Web/",
   "type": "module",
   "scripts": {
     "dev": "vite",
